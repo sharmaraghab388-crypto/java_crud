@@ -1,0 +1,1 @@
+ALTER  table book add rating int default 0;
